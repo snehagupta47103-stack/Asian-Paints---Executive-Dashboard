@@ -1,0 +1,151 @@
+RegionID,Region,Zone,State,City
+1,West,A,Tamil Nadu,South Dumdum
+2,North,B,Odisha,Bhavnagar
+3,East,A,West Bengal,Gandhinagar
+4,Central,B,Tamil Nadu,Khammam
+5,West,B,Mizoram,Uluberia
+6,Central,C,West Bengal,Naihati
+7,Central,B,Mizoram,Karawal Nagar
+8,North,B,Mizoram,Amritsar
+9,North,A,Tamil Nadu,Kavali
+10,West,A,Tripura,Bahraich
+11,South,B,Haryana,Uluberia
+12,South,B,Uttar Pradesh,Mangalore
+13,Central,C,Tamil Nadu,Etawah
+14,South,C,Arunachal Pradesh,Aurangabad
+15,East,A,Meghalaya,Navi Mumbai
+16,North,A,Tripura,Sultan Pur Majra
+17,Central,A,Uttar Pradesh,Hospet
+18,North,A,Karnataka,Berhampur
+19,South,A,Andhra Pradesh,Nashik
+20,East,C,Tamil Nadu,Bhimavaram
+21,East,C,Telangana,Madurai
+22,West,A,Kerala,Aizawl
+23,Central,C,Tripura,Karimnagar
+24,East,C,Assam,Munger
+25,Central,A,Uttar Pradesh,Saharanpur
+26,Central,B,Odisha,Machilipatnam
+27,Central,A,Punjab,Tenali
+28,North,A,Sikkim,Nagercoil
+29,Central,A,Telangana,Kollam
+30,South,C,Chhattisgarh,Gorakhpur
+31,East,A,Himachal Pradesh,Visakhapatnam
+32,North,B,Odisha,Rampur
+33,East,A,Manipur,Morena
+34,South,A,Tamil Nadu,Purnia
+35,North,B,Mizoram,Chinsurah
+36,West,C,Uttar Pradesh,Indore
+37,South,C,Sikkim,Nanded
+38,West,A,Uttarakhand,Nagercoil
+39,East,B,Rajasthan,Haldia
+40,South,C,Gujarat,Akola
+41,West,C,West Bengal,Machilipatnam
+42,West,B,Maharashtra,Tirunelveli
+43,North,B,Sikkim,Motihari
+44,North,B,Mizoram,Tiruppur
+45,East,C,Himachal Pradesh,Davanagere
+46,South,A,Goa,Bokaro
+47,West,B,West Bengal,Machilipatnam
+48,South,A,Mizoram,Vadodara
+49,Central,B,Uttar Pradesh,Amroha
+50,East,B,Madhya Pradesh,Bhiwani
+51,East,B,Karnataka,Jhansi
+52,North,B,Himachal Pradesh,Meerut
+53,West,A,Rajasthan,Vijayawada
+54,South,C,Himachal Pradesh,Malegaon
+55,West,C,Rajasthan,Rajkot
+56,East,A,West Bengal,Srinagar
+57,West,B,Andhra Pradesh,Sri Ganganagar
+58,East,B,Himachal Pradesh,Pondicherry
+59,Central,C,Rajasthan,Korba
+60,West,A,Himachal Pradesh,Amroha
+61,East,A,Manipur,Hyderabad
+62,West,C,Bihar,Panvel
+63,West,B,Assam,Vijayawada
+64,South,B,Mizoram,Rewa
+65,West,B,Karnataka,Ujjain
+66,West,C,Sikkim,Moradabad
+67,West,C,Haryana,Ozhukarai
+68,East,C,Arunachal Pradesh,Firozabad
+69,East,B,Mizoram,Panvel
+70,West,A,Odisha,Baranagar
+71,Central,B,Sikkim,Srikakulam
+72,West,C,Maharashtra,Jabalpur
+73,West,C,Chhattisgarh,Kishanganj
+74,East,C,Gujarat,Karawal Nagar
+75,North,C,Uttar Pradesh,Begusarai
+76,North,C,Andhra Pradesh,Bhalswa Jahangir Pur
+77,West,A,Maharashtra,Bhagalpur
+78,Central,C,Mizoram,Gudivada
+79,South,A,Rajasthan,Kottayam
+80,East,C,Mizoram,Rampur
+81,South,A,Karnataka,Nashik
+82,South,B,Jharkhand,Raurkela Industrial Township
+83,Central,B,Bihar,Alappuzha
+84,Central,B,Bihar,Bokaro
+85,North,A,Rajasthan,Morena
+86,East,A,Meghalaya,Avadi
+87,North,C,Tamil Nadu,Panipat
+88,Central,B,West Bengal,Bareilly
+89,Central,C,Sikkim,Jammu
+90,East,B,Kerala,Khandwa
+91,East,C,Uttarakhand,Nagaon
+92,West,B,Chhattisgarh,Shivpuri
+93,West,B,Mizoram,Gorakhpur
+94,South,A,Punjab,Surendranagar Dudhrej
+95,East,A,Telangana,Hazaribagh
+96,East,A,Rajasthan,North Dumdum
+97,North,C,Madhya Pradesh,Panihati
+98,North,C,Gujarat,Tiruppur
+99,West,C,Maharashtra,Narasaraopet
+100,South,C,Odisha,Gudivada
+101,Central,C,Karnataka,Bally
+102,West,A,Goa,Serampore
+103,North,C,Assam,Morbi
+104,Central,B,Bihar,Tezpur
+105,South,C,Himachal Pradesh,Satara
+106,North,B,Arunachal Pradesh,Jalgaon
+107,West,A,Goa,Burhanpur
+108,West,C,Assam,Vellore
+109,South,C,West Bengal,Vadodara
+110,West,B,West Bengal,Amravati
+111,South,A,Goa,Bellary
+112,East,A,Himachal Pradesh,Silchar
+113,North,B,Haryana,New Delhi
+114,East,A,Uttar Pradesh,Howrah
+115,East,C,Meghalaya,Thane
+116,West,A,Uttar Pradesh,Dibrugarh
+117,Central,A,Karnataka,Srikakulam
+118,West,C,Sikkim,Nanded
+119,North,B,Bihar,Danapur
+120,West,A,West Bengal,Firozabad
+121,North,C,Uttar Pradesh,Orai
+122,Central,C,Assam,Lucknow
+123,Central,C,Gujarat,Kulti
+124,Central,B,Rajasthan,Ratlam
+125,North,A,Maharashtra,Raiganj
+126,Central,A,Goa,Mysore
+127,East,B,Odisha,Nagercoil
+128,West,B,Odisha,Bulandshahr
+129,West,C,Haryana,Danapur
+130,North,B,Gujarat,Vadodara
+131,South,B,Jharkhand,Jabalpur
+132,South,A,Haryana,Bokaro
+133,West,A,Kerala,Gulbarga
+134,South,A,Rajasthan,Serampore
+135,South,C,Tripura,Nagpur
+136,South,C,Andhra Pradesh,Bangalore
+137,North,C,Andhra Pradesh,Nashik
+138,East,C,Odisha,Dehri
+139,Central,A,Tamil Nadu,Jorhat
+140,North,A,Mizoram,Medininagar
+141,East,B,Bihar,Bihar Sharif
+142,Central,C,Haryana,Akola
+143,Central,B,Andhra Pradesh,Purnia
+144,North,C,Nagaland,Jamalpur
+145,West,C,Himachal Pradesh,Erode
+146,North,C,Himachal Pradesh,Vijayawada
+147,Central,A,Punjab,Unnao
+148,South,C,Meghalaya,Nashik
+149,South,B,Haryana,Raiganj
+150,West,B,Himachal Pradesh,Siliguri
